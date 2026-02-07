@@ -4,7 +4,7 @@ I'm a new grad with a master's degree in Quantitative Finance and a bachelor's i
 
 ---
 
-# Tech Stack
+#### Tech Stack
 1. Python (pandas, NumPy, scikit-learn, statsmodels, Matplotlib, Seaborn)
 2. SQL (PostgreSQL/MySQL)
 3. Git/GitHub
