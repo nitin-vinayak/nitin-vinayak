@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Nitin. 
 
-<!--
-**nitin-vinayak/nitin-vinayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a new grad with a master's degree in Quantitative Finance and a bachelor's in Information and Computer Science Engineering. I'm super passionate about solving complex problems within the domains of finance and computer sceince, as well as working at the intersection of these two fields.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack
+1. Python (pandas, NumPy, scikit-learn, statsmodels, Matplotlib, Seaborn)
+2. SQL (PostgreSQL/MySQL)
+3. Git/GitHub
+4. Google Cloud Platform
+
+
+
+
