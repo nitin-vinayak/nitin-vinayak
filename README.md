@@ -10,7 +10,7 @@ I'm a new grad with a master's degree in Quantitative Finance and a bachelor's i
 3. Git/GitHub
 4. Google Cloud Platform
 
-## Contact & Links
+#### Contact & Links
 
 **Website**: www.nitin.ink  
 **Email**: nitinvinayak.m@gmail.com  
