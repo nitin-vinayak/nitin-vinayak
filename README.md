@@ -1,6 +1,6 @@
 Hi, I'm Nitin. 
 
-I'm a new grad with a master's degree in Quantitative Finance and a bachelor's in Information and Computer Science Engineering. I'm super passionate about solving complex problems within the domains of finance and computer sceince, as well as working at the intersection of these two fields.
+I'm a new grad with a master's degree in Quantitative Finance and a bachelor's in Information Science Engineering. I'm super passionate about solving complex problems within the domains of finance and computer science, as well as working at the intersection of these two fields.
 
 ---
 
