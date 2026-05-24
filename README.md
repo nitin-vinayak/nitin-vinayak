@@ -1,14 +1,16 @@
 Hi, I'm Nitin. 
 
-I'm a new grad with a master's degree in Quantitative Finance and a bachelor's in Information Science Engineering. I'm super passionate about solving complex problems within the domains of finance and computer science, as well as working at the intersection of these two fields.
+I'm a master of science in Quantitative Finance grad with a bachelor's in Information Science Engineering. I'm super passionate about solving complex problems at the intersection of finance and technology. I'm currently seeking roles in quantitative analysis, risk or investment research.
 
 ---
 
-#### Tech Stack
+#### Tools & Tech
 1. Python (pandas, NumPy, scikit-learn, statsmodels, Matplotlib, Seaborn)
 2. SQL (PostgreSQL/MySQL)
-3. Git/GitHub
-4. Google Cloud Platform, Streamlit
+3. Bloomberg Terminal
+4. Git/GitHub
+5. Streamlit, Flask
+6. Microsoft Excel (VBA)
 
 ---
 
